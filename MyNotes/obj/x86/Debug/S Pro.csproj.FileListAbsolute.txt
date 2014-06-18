@@ -1,0 +1,39 @@
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\bin\Debug\S Pro.exe
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\bin\Debug\S Pro.pdb
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S_Pro.Properties.Resources.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S Pro.exe
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S Pro.pdb
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S_Pro.FormMain.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\bin\Debug\S Pro.exe.config
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S_Pro.FormNote.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S_Pro.fmMiniMe.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\bin\Debug\StockDatabase.mdf
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\bin\Debug\StockDatabase_log.ldf
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S_Pro.fmPassword.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S_Pro.Form1.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\UserControl1.baml
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\UserControl1.g.cs
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S Pro_Content.g.cs
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S Pro_MarkupCompile.cache
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S Pro.g.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S_Pro.chartForm.resources
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\bin\Debug\S Pro.exe.config
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S Pro.exe
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S_Pro.fmMiniMe.resources
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S_Pro.FormNote.resources
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S_Pro.Properties.Resources.resources
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\bin\Debug\S Pro.exe
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\bin\Debug\S Pro.pdb
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S Pro.pdb
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S_Pro.FormSetPassword.resources
+C:\Users\bop\Desktop\S_Analysis_Pro\S Pro\S Pro\obj\x86\Debug\S_Pro.fmPasswordIn.resources
+C:\Users\bop\Desktop\S_Analysis_Pro\MyNotes\S Pro\bin\Debug\S Pro.exe.config
+C:\Users\bop\Desktop\S_Analysis_Pro\MyNotes\S Pro\obj\x86\Debug\S Pro.exe
+C:\Users\bop\Desktop\S_Analysis_Pro\MyNotes\S Pro\obj\x86\Debug\S Pro.pdb
+C:\Users\bop\Desktop\S_Analysis_Pro\MyNotes\S Pro\bin\Debug\MyNotes.exe.config

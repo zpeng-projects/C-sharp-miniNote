@@ -1,0 +1,16 @@
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\bin\Release\StockDatabase.mdf
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\bin\Release\StockDatabase_log.ldf
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\bin\Release\S Pro.exe.config
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\bin\Release\S Pro.exe
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\bin\Release\S Pro.pdb
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Release\ResolveAssemblyReference.cache
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Release\S_Pro.Form1.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Release\S_Pro.fmMiniMe.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Release\S_Pro.fmPassword.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Release\S_Pro.FormMain.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Release\S_Pro.FormNote.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Release\S_Pro.Properties.Resources.resources
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Release\GenerateResource.read.1.tlog
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Release\GenerateResource.write.1.tlog
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Release\S Pro.exe
+C:\CWC\temp1\S_Analysis_Pro\S Pro\S Pro\obj\x86\Release\S Pro.pdb
