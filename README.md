@@ -1,4 +1,4 @@
-C-sharp-miniNote
+Easy MiniNote
 ================
 
-mini notebook easy for taking notes or can be used as a journal book
+This Mininotebook is aimed at taking note easily, used as a resizable, movable little stick-it on top of the documents, and the notes can be saved as a password-protected journal.
